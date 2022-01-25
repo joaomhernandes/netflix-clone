@@ -10,10 +10,10 @@ Recrie a interface do principal site de streaming mundial utilizando tecnologias
 
 Foram implementados alguns extras:
 
-- Nova roupagem - Foi misturado o layout do Netflix com conteudo e cores do Crunchyroll.
-- Novas seções - Foram criadas 3 seções: Populares, Recomendados e Esportes. Cada uma das seções possui um conteúdo proprio e seu carrocel.
+- Nova roupagem - Foi misturado o layout do Netflix com conteúdo e cores do Crunchyroll.
+- Novas seções - Foram criadas 3 seções: Populares, Recomendados e Esportes. Cada uma das seções possui um conteúdo próprio e seu carrossel.
 - Novas features - Foram implementadas as features:
-  - Navbar fixa, a mesma se mantera no topo da janela ao rolar a página;
+  - Navbar fixa, a mesma se manterá no topo da janela ao rolar a página;
   - Links funcionais na navbar;
   - Criado um footer com contatos.
 
